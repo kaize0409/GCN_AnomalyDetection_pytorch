@@ -3,7 +3,7 @@ Deep Anomaly Detection on Attributed Networks(SDM2019)
 
 ## Dominant
 
-This is the source code of paper "[Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~kding9/pdf/SDM2019_Deep.pdf)".
+This is the PyTorch source code of paper "[Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~kding9/pdf/SDM2019_Deep.pdf)".
 
 ![The proposed framework](framework.png)
 
@@ -27,4 +27,3 @@ Please cite our paper if you use this code in your own work:
   year={2019}
 }
 ```
-# GCN_AnomalyDetection_pytorch
